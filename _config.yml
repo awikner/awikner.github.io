@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Alexander Wikner"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "Physics Ph.D. student at the University Maryland. COMBINE Fellow."
+  bio    : "Physics Ph.D. student at the University of Maryland. COMBINE Fellow."
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
