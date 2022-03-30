@@ -8,4 +8,5 @@ author_profile: true
 header:
   image: /assets/images/combine.png
 ---
-You can use *Markdown* syntax on Github Pages!
+Welcome to {{ site.title }}! My name is {{ site.name }}.
+You can use *Markdown* syntax on **Github Pages**!
