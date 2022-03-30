@@ -8,5 +8,6 @@ author_profile: true
 header:
   image: /assets/images/combine.png
 ---
-Welcome to {{ site.title }}! My name is {{ site.name }}.
-You can use *Markdown* syntax on **Github Pages**!
+Welcome to {{ site.title }}! You can reference site variables using the syntax "\{\{ site.VARIABLE \}\}".
+For example, my email is {{ site.email }}.
+You can also use *Markdown* syntax on **Github Pages**!
