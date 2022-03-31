@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import sys
 from numba import njit, objmode
 #sys.path.insert(1, 'C:/Users/user/Dropbox/AlexanderWikner_1/UMD_Grad_School/res-noise-stabilization/helpers')
-from code.lorenzrungekutta_numba import *
+from lorenzrungekutta_numba import *
 
 
 def input_mat_init(shape, input_weight = 1.0, seed = 1, dtype = None):
